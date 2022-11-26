@@ -1,4 +1,4 @@
-package InnerClasses;
+	package InnerClasses;
 
 public class p1 {
 	
