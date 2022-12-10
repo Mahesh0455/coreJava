@@ -12,9 +12,6 @@ public class P5 {
 		String [] files=f.list();
 		
 		for(String file:files) {
-			
-		
-			
 			System.out.println(file);
 			
 		}
