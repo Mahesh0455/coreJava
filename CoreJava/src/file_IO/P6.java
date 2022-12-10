@@ -6,7 +6,7 @@ public class P6 {
 	public static void main(String[] args) throws IOException {
 		
 		
-		FileWriter fw=new FileWriter("abc.txt");
+		FileWriter fw=new FileWriter("abc.txt",true);
 		fw.write('M');
 		fw.write("ahesh Pawar");
 		fw.write("\nGood morning");
