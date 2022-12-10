@@ -10,9 +10,9 @@ public class P7 {
 		
 		int i=fr.read();
 		
-		while (i > 0) {
+		while (i != -1) {
 			System.out.print((char)i);
-			fr.read();
+			i=fr.read();	
 		}
 		
 		fr.close();
