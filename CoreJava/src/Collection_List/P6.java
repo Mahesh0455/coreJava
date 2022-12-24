@@ -11,6 +11,8 @@ public class P6 {
 		s.push("A");
 		s.push("B");
 		s.push("C");
+		s.push("D");
+		s.push("Mahesh");
 		
 		
 		System.out.println(s);
@@ -21,6 +23,8 @@ public class P6 {
 		s.pop();
 		
 		System.out.println(s);
+		
+		System.out.println(s.search("Mahesh"));
 		
 		
 	}
