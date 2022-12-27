@@ -19,6 +19,8 @@ public class P4 {
 		
 		//t.add(4); //CCE Class Cast Exception Heterogeneous not allowed because of comparison
 		System.out.println(t);
+		
+		String s=new String();
 	}
 
 }
