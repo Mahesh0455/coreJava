@@ -17,6 +17,9 @@ public class P7 {
 		
 		System.out.println(t);
 		
+	
+		
+		
 	}
 }
 
