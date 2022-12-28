@@ -16,7 +16,8 @@ public class P9 {
 		t.add("A");
 		
 		System.out.println(t);
-
+		
+		
 	}
 
 }
