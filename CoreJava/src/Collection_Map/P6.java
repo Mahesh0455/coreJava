@@ -13,6 +13,9 @@ public class P6 {
 		t.put(101, "XXX");
 		t.put(104, 106);
 		
+		//t.put(null, 1000);// null comparison
+		//t.put("ABC", "jjj"); non homogeneous keys
+		
 		System.out.println(t);
 	}
 
