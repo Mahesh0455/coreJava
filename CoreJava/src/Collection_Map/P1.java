@@ -12,6 +12,7 @@ public class P1 {
 		m.put("Pawar", 12000);
 		m.put("Sagar", 16000);
 		m.put("Keshav", 18000);
+		m.put(10, "Integer");
 		System.out.println(m.put("Pawar", 18200));
 		System.out.println(m);
 		

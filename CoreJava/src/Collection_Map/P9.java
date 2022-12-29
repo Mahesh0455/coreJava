@@ -15,6 +15,8 @@ public class P9 {
 		h.put(50, "A");
 		h.put(40, "C");
 		
+		h.put("Mahesh", "Pawar");
+		
 		System.out.println(h);
 
 	}
