@@ -12,6 +12,8 @@ public class P3 {
 		l.add("A");
 		l.add("K");
 		l.add("N");
+		//l.add(null);
+		l.add(10);
 		System.out.println("Before Sorting: "+l);
 		
 		Collections.sort(l);
