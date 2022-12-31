@@ -12,7 +12,7 @@ public class P7 {
 		l.add("M");
 		l.add("K");
 		l.add("a");
-		
+		//l.add(5);
 		System.out.println("Before sorting"+l);
 		
 		Collections.sort(l);
