@@ -13,8 +13,16 @@ public class P1 {
 		hs.add(null);
 		hs.add(3);
 		hs.add(6);
-		System.out.println(hs.add("B"));
-		System.out.println(hs);
+		//System.out.println(hs.add("B"));
+		//System.out.println(hs);
+		
+		Iterator itr=hs.iterator();
+		while(itr.hasNext()) {
+			
+			Object s=itr.next();
+			System.out.println(s);
+		}
+		
 		
 		
 		
