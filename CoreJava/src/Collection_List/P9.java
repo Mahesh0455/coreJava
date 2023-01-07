@@ -35,4 +35,22 @@ class Employee{
 		this.empId=empId;
 		this.empName=empName;
 	}
+	
+	public void setEmpId(int empId) {
+		this.empId=empId;
+		
+	}
+	
+	public void setEmpName(String empName) {
+		this.empName=empName;
+	}
+	
+	public int getEmpId() {
+		return this.empId;
+	}
+	
+	public String getEmpName(){
+		return this.empName;
+		
+	}
 }
