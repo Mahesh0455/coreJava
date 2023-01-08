@@ -19,6 +19,10 @@ public class P10 {
 			System.out.print(e.nextElement()+" ");
 		}
 		
+		System.out.println("\nIntial Default Capacity:="+v.capacity());
+		v.add(20);
+		System.out.println("Incremental Capacity:="+v.capacity());
+		
 		
 		
 		
