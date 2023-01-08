@@ -1,5 +1,5 @@
 package Collection_List;
-
+import java.util.*;
 import java.util.ArrayList;
 
 public class P9 {
@@ -24,6 +24,8 @@ public class P9 {
 			System.out.print(o.toString()+" ");
 		}
 		
+		
+		ListIterator li=list.listIterator();
 		
 		
 	}
