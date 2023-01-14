@@ -7,7 +7,8 @@ public class P4 {
 		Beer b[]=Beer.values();
 		
 		for(Beer b1:b) {
-			System.out.println(b1);
+			System.out.println(b1+" >>>"+b1.ordinal());
+			
 		}
 		
 	}
