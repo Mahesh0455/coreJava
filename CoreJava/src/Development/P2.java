@@ -12,7 +12,7 @@ public class P2 {
 		String name=System.getProperty("development");
 		
 		if(name.equals("Mahesh")) {
-			System.out.println("Mahesh Pawar");
+			System.out.println("Developer is: Mahesh Pawar");
 		}else {
 			System.out.println("Other Developer");
 		}
